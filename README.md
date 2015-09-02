@@ -11,7 +11,7 @@ Demonstrations for leaflet-tilelayer-mask.
 Historical map with mask effect on satellite map.
 
 
-## Kanto, Japan
+## Around Tokyo, Japan
 <http://frogcat.github.io/retroscope/>
 
 ## Great Britain
