@@ -11,8 +11,13 @@ Demonstrations for leaflet-tilelayer-mask.
 Historical map with mask effect on satellite map.
 
 
-## Around Tokyo, Japan
+## Tokyo, Japan
 <http://frogcat.github.io/retroscope/>
+
+![tokyo](http://frogcat.github.io/capture/tokyo.jpg)
+
 
 ## Great Britain
 <http://frogcat.github.io/retroscope/nls/>
+
+![gb](http://frogcat.github.io/capture/gb.jpg)
